@@ -1,7 +1,7 @@
 # Arbitrary Precision Four Function Calculator
 
 ## Description
-
+COA project:- Design And Implement an Arbitrary Precision Four Function Calculator
 This repository contains a Python script that implements an arbitrary precision calculator using Tkinter.
 
 ## Features
